@@ -2,7 +2,9 @@
 
 ## Team Information
 Team Name: The Eternals
+
 Year: 2nd
+
 All-Female Team: NO
 
 ---
